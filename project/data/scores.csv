@@ -1,0 +1,6 @@
+Model,r2 Score
+KNN,0.47424017
+Linear Regression,0.482130463
+Random Forest,0.767483673
+SVM,0.641910128
+Gradient Boosting,0.741967185
