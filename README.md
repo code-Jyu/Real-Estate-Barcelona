@@ -81,3 +81,4 @@ Repository:
 [Repository](https://github.com/code-Jyu/Real-Estate-Barcelona)  
 [Slides](https://docs.google.com/presentation/d/1H6QvCdSc6cJSL3QJMT-gw5GrnjwGF1B49OrD5vKln6g/edit#slide=id.gb17d8b65db_0_92)  
 [Trello](https://trello.com/b/Uk3rX5IR/final-project-bcn-real-state)  
+[Tableau](https://public.tableau.com/profile/jorge.gonzalez.gonzalez#!/) 
